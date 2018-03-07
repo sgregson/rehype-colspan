@@ -1,8 +1,8 @@
 {
-  "name": "rehype-colspan",
+  "name": "rehype-spanner",
   "version": "1.0.0",
-  "description": "shim html colspan attribute by inserting empty nodes to the right",
-  "main": "colspan.js",
+  "description": "Take a 🔧 to (col|row)span",
+  "main": "spanner.js",
   "scripts": {
     "test": "jest --watch"
   },
